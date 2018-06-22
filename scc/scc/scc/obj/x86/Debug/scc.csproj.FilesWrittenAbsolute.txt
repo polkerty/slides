@@ -1,0 +1,5 @@
+/Users/jacobbrazeal/Desktop/experiments/chess_solve/scc/scc/scc/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jacobbrazeal/Desktop/experiments/chess_solve/scc/scc/scc/bin/Debug/scc.pdb
+/Users/jacobbrazeal/Desktop/experiments/chess_solve/scc/scc/scc/bin/Debug/scc.exe
+/Users/jacobbrazeal/Desktop/experiments/chess_solve/scc/scc/scc/obj/x86/Debug/scc.exe
+/Users/jacobbrazeal/Desktop/experiments/chess_solve/scc/scc/scc/obj/x86/Debug/scc.pdb
